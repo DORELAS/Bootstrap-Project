@@ -1,0 +1,99 @@
+/* Coolors Exported Palette - coolors.co/dba587-db8464-d1232f-420f1d-160d13 */
+
+/* HSL */
+$color1: hsla(21%, 54%, 69%, 1);
+$color2: hsla(16%, 62%, 63%, 1);
+$color3: hsla(356%, 71%, 48%, 1);
+$color4: hsla(344%, 63%, 16%, 1);
+$color5: hsla(320%, 26%, 7%, 1);
+
+/* RGB */
+$color1: rgba(219, 165, 135, 1);
+$color2: rgba(219, 132, 100, 1);
+$color3: rgba(209, 35, 47, 1);
+$color4: rgba(66, 15, 29, 1);
+$color5: rgba(22, 13, 19, 1);
+
+body {
+    background-color: $color2;
+}
+
+.height {
+    min-height: 100vh;
+}
+
+.btn {
+    background-color: $color3;
+}
+
+#skills {
+    background-color: $color2;
+}
+
+.title-underline {
+    width: 200px;
+    height: 5px;
+    margin: 0 auto;
+}
+
+
+#about {
+    background-color: $color1;
+}
+
+.about-picture {
+    background-image: url(../images/wallpaper.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+
+#projects {
+    background-color: $color4;
+    color: $color1;
+    font-family: "Economica";
+}
+
+#hobby {
+    background-color: $color3;
+}
+
+#carousel {
+    background-color: $color5;
+}
+
+#filler {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../images/wallpaper2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#blog {
+    background-color: $color1;
+    
+}
+
+#contact {
+    background-color: $color3;
+}
+
+#review {
+    background-color: $color4;
+}
+
+#progress {
+    background-image: linear-gradient(rgba(1,1,1,0.5), rgba(1,1,1,0.5)), url(../images/wallpaper3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+#price {
+    background-color: $color2;
+}

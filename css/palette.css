@@ -1,0 +1,72 @@
+/* Coolors Exported Palette - coolors.co/dba587-db8464-d1232f-420f1d-160d13 */
+/* HSL */
+/* RGB */
+body {
+  background-color: #db8464; }
+
+.height {
+  min-height: 100vh; }
+
+.btn {
+  background-color: #d1232f; }
+
+#skills {
+  background-color: #db8464; }
+
+.title-underline {
+  width: 200px;
+  height: 5px;
+  margin: 0 auto; }
+
+#about {
+  background-color: #dba587; }
+
+.about-picture {
+  background-image: url(../images/wallpaper.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; }
+
+#projects {
+  background-color: #420f1d;
+  color: #dba587;
+  font-family: "Economica"; }
+
+#hobby {
+  background-color: #d1232f; }
+
+#carousel {
+  background-color: #160d13; }
+
+#filler {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url(../images/wallpaper2.jpg);
+  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/wallpaper2.jpg);
+  background-image: -o-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/wallpaper2.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/wallpaper2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; }
+
+#blog {
+  background-color: #dba587; }
+
+#contact {
+  background-color: #d1232f; }
+
+#review {
+  background-color: #420f1d; }
+
+#progress {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(1, 1, 1, 0.5)), to(rgba(1, 1, 1, 0.5))), url(../images/wallpaper3.jpg);
+  background-image: -webkit-linear-gradient(rgba(1, 1, 1, 0.5), rgba(1, 1, 1, 0.5)), url(../images/wallpaper3.jpg);
+  background-image: -o-linear-gradient(rgba(1, 1, 1, 0.5), rgba(1, 1, 1, 0.5)), url(../images/wallpaper3.jpg);
+  background-image: linear-gradient(rgba(1, 1, 1, 0.5), rgba(1, 1, 1, 0.5)), url(../images/wallpaper3.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; }
+
+#price {
+  background-color: #db8464; }
